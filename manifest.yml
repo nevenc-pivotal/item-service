@@ -1,0 +1,4 @@
+---
+applications:
+- name: item-service
+  path: target/item-service-0.0.1-SNAPSHOT.jar
